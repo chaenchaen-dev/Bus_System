@@ -1,11 +1,11 @@
 
 public class Card {
-	String Company;
-	int Number;
+	String COMPANY;
+	int NUMBER;
 	
 	public Card( String company, int number) {
-		Company = company;
-		Number = number;
+		COMPANY = company;
+		NUMBER = number;
 	}
 	
 

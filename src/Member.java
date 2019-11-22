@@ -1,17 +1,17 @@
 
 public class Member {
-	String Name;
-	int PhoneNum;
-	String Email;
-	String Id;
-	String PassWord;
+	String NAME;
+	int PHONENUM;
+	String EMAIL;
+	String ID;
+	String PWD;
 	
 	public Member(String name, int phonenum, String email, String id, String password) {
-		Name = name;
-		PhoneNum = phonenum;
-		Email = email;
-		Id = id;
-		PassWord = password;
+		NAME = name;
+		PHONENUM = phonenum;
+		EMAIL = email;
+		ID = id;
+		PWD = password;
 	}
 
 }

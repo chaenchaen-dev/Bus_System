@@ -1,3 +1,4 @@
+package ClassPackage;
 
 public class Payment {
 	Card CARD;
